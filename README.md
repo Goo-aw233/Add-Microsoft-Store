@@ -4,9 +4,9 @@
 
 Select your region and language to continue.
 
-选择你的语言与地区以继续。
+选择你的语言地区以继续。
 
-[简体中文（中国）](https://goo-aw233.github.io/zh-CN/tutorial/Windows/msstore) | [繁体中文（台灣）](https://github.com/Goo-aw233/Add-Microsoft-Store) | [English (United States)](https://github.com/Goo-aw233/Add-Microsoft-Store)
+[简体中文（中国大陆）](https://goo-aw233.github.io/zh-CN/tutorial/Windows/msstore) | [繁體中文（台灣）](https://github.com/Goo-aw233/Add-Microsoft-Store) | [English (United States)](https://github.com/Goo-aw233/Add-Microsoft-Store)
 
 ## Usage
 
