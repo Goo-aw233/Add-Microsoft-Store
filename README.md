@@ -68,7 +68,7 @@ Microsoft_Store_2_without_Installer_x86
 
 Download a package that best suits your system version and unzip it into a blank folder
 
-Afterwards, turn on [Developer Mode](ms-settings:developers) in Settings
+Afterwards, turn on <a href="ms-settings:developers">Developer Mode</a> in Settings
 
 <details>
 
