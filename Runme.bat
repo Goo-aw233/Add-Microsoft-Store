@@ -132,6 +132,10 @@ exit
 :: Install all .Appx, .AppxBundle, .Msix and .MsixBundle files in the AppInstaller folder
 
 echo Installing AppInstaller...
+for %%f in (Microsoft_Store\Microsoft.UI.Xaml.2.7_*.Appx Microsoft_Store\Microsoft.UI.Xaml.2.8_*.Appx Microsoft_Store\Microsoft.VCLibs.140.00.UWPDesktop_*.Appx) do (
+    echo Installing %%f...
+    powershell -Command "Add-AppxPackage -Path %%f"
+)
 for %%f in (AppInstaller\*.Appx AppInstaller\*.AppxBundle) do (
     echo Installing %%f...
     powershell -Command "Add-AppxPackage -Path %%f"
@@ -274,6 +278,10 @@ exit
 :: 安装 AppInstaller 文件夹下所有的 .Appx、AppxBundle、.Msix 和 .MsixBundle 文件
 
 echo 正在安装 AppInstaller...
+for %%f in (Microsoft_Store\Microsoft.UI.Xaml.2.7_*.Appx Microsoft_Store\Microsoft.UI.Xaml.2.8_*.Appx Microsoft_Store\Microsoft.VCLibs.140.00.UWPDesktop_*.Appx) do (
+    echo 正在安装 %%f...
+    powershell -Command "Add-AppxPackage -Path %%f"
+)
 for %%f in (AppInstaller\*.Appx AppInstaller\*.AppxBundle) do (
     echo 正在安装 %%f...
     powershell -Command "Add-AppxPackage -Path %%f"
