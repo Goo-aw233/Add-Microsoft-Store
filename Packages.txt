@@ -1,0 +1,15 @@
+Microsoft Store | Windows Store
+
+Runtime:
+Microsoft.NET.Native.Framework.2.2_*__8wekyb3d8bbwe.Appx
+Microsoft.NET.Native.Runtime.2.2_*__8wekyb3d8bbwe.Appx
+Microsoft.UI.Xaml.2.4_*__8wekyb3d8bbwe.Appx
+Microsoft.UI.Xaml.2.7_*__8wekyb3d8bbwe.Appx
+Microsoft.VCLibs.140.00_*__8wekyb3d8bbwe.Appx
+
+AppInstaller
+
+Runtime:
+Microsoft.VCLibs.140.00.UWPDesktop_*__8wekyb3d8bbwe.Appx
+Microsoft.UI.Xaml.2.4_*__8wekyb3d8bbwe.Appx
+Microsoft.UI.Xaml.2.8_*__8wekyb3d8bbwe.Appx
