@@ -6,7 +6,7 @@ Select your region and language to continue.
 
 选择你的语言地区以继续。
 
-[简体中文（中国大陆）](https://goo-aw233.github.io/zh-CN/tutorial/Windows/msstore) | [繁體中文（台灣）](https://github.com/Goo-aw233/Add-Microsoft-Store) | [English (United States)](https://github.com/Goo-aw233/Add-Microsoft-Store)
+[简体中文（中国大陆）](https://goo-aw233.github.io/zh-CN/tutorial/Windows/msstore) | [繁體中文（臺灣）](https://github.com/Goo-aw233/Add-Microsoft-Store) | [English (United States)](https://github.com/Goo-aw233/Add-Microsoft-Store)
 
 ## Usage
 
@@ -111,6 +111,10 @@ For Windows 11: Settings > System > For developers (or Settings > Privacy & secu
 Finally, double-click Runme.bat to agree to the UAC and select your language and installed components to start the installation.
 
 ![Runme](Assets/Runme.png)
+
+## Download
+
+[GitHub Releases](https://github.com/Goo-aw233/Add-Microsoft-Store/releases) | [OneDrive](https://gbcs6-my.sharepoint.com/:f:/g/personal/gucats_gbcs6_onmicrosoft_com/Eqlmdjx_hIpHqmxSLqmLjxoBdtfHYQ6qqe45GHF6TSB0OA)
 
 ## Q&A
 
