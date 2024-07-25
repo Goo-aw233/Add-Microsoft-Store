@@ -6,7 +6,7 @@ Select your region and language to continue.
 
 选择你的语言地区以继续。
 
-[简体中文（中国大陆）](https://goo-aw233.github.io/zh-CN/tutorial/Windows/msstore) | [繁體中文（臺灣）](https://github.com/Goo-aw233/Add-Microsoft-Store) | [English (United States)](https://github.com/Goo-aw233/Add-Microsoft-Store)
+[English (United States)](https://github.com/Goo-aw233/Add-Microsoft-Store) | [简体中文 (中国大陆)](https://github.com/Goo-aw233/Add-Microsoft-Store/blob/main/README.zh-CN.md) | [繁體中文 (臺灣)](https://github.com/Goo-aw233/Add-Microsoft-Store)
 
 ## Usage
 
@@ -92,23 +92,23 @@ Microsoft_Store_2_3_without_Installer_ARM64
 
 Download a package that best suits your system version and unzip it into a blank folder.
 
-Afterwards, turn on <a href="ms-settings:developers">Developer Mode</a> in Settings.
+Afterwards, turn on <a href="ms-settings:developers">Developer Mode</a> in Windows Settings.
 
 <details>
 
 <summary>How to turn on Developer Mode.</summary>
 
-For Windows 10: Settings > Update & Security > For developers
+For Windows 10: Windows Settings > Update & Security > For developers
 
 ![Windows 10](Assets/DeveloperModeWIN10.png)
 
-For Windows 11: Settings > System > For developers (or Settings > Privacy & security > For developers)
+For Windows 11: Windows Settings > System > For developers (or Windows Settings > Privacy & security > For developers)
 
 ![Windows 11](Assets/DeveloperModeWIN11.png)
 
 </details>
 
-Finally, double-click Runme.bat to agree to the UAC and select your language and installed components to start the installation.
+Finally, after double-clicking `Runme.bat`, agreeing to the UAC and selecting the language and components to be installed, the installation can begin.
 
 ![Runme](Assets/Runme.png)
 
@@ -118,13 +118,13 @@ Finally, double-click Runme.bat to agree to the UAC and select your language and
 
 ## Q&A
 
-### When will Windows 10 Version 1507 - Windows 10 1703 be supported?
+### When Will Windows 10 Version 1507 - Windows 10 1703 Be Supported?
 
 In Windows 10 Version 1507 - Windows 10 1709,  Microsoft Store is no longer available and cannot be opened, so it is not supported for this version.
 
 However, I'm trying to extract the corresponding Microsoft Store and AppInstaller packages from the corresponding Windows version.
 
-## View application package information
+## View Application Package Information
 
 [Packages](Packages.txt)
 
@@ -136,15 +136,23 @@ The old repository has been migrated and is no longer updated and archived.
 
 ## Roadmap
 
-### v3.2.0
+#### v3.2.0
 
 - [ ] Support for all versions and all architectures in one package.
 
+### Recently Completed
+
+#### v3.1.1
+
+- [x] Added online Microsoft Store installation.
+- [x] Supports the option to install for the current user or all users.
+- [x] Fixed language display issue.
+
 <details>
 
-<summary>Completed</summary>
+<summary>Completed Earlier</summary>
 
-### v3.1.0
+#### v3.1.0
 
 - [x] ARM64 and ARM32 will be supported.
 
