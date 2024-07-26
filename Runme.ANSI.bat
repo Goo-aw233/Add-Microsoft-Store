@@ -446,8 +446,8 @@ echo. 4 - 仅为所有用户安装 Microsoft Store
 echo. 5 - 仅为所有用户安装 AppInstaller
 echo. 6 - 为所有用户同时安装 Microsoft 与 AppInstaller
 echo.
-echo. 7 - 为当前安装自定义应用程序包（需放在 customBundle 下）
-echo. 8 - 为所有安装自定义应用程序包（需放在 customBundle 下）
+echo. 7 - 为当前用户安装自定义应用程序包（需放在 customBundle 下）
+echo. 8 - 为所有用户安装自定义应用程序包（需放在 customBundle 下）
 echo.
 echo. L - 选择语言
 echo. q - 退出脚本
