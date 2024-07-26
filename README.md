@@ -116,6 +116,10 @@ Finally, after double-clicking `Runme.bat`, agreeing to the UAC and selecting th
 
 [GitHub Releases](https://github.com/Goo-aw233/Add-Microsoft-Store/releases) | [OneDrive](https://gbcs6-my.sharepoint.com/:f:/g/personal/gucats_gbcs6_onmicrosoft_com/Eqlmdjx_hIpHqmxSLqmLjxoBdtfHYQ6qqe45GHF6TSB0OA)
 
+## File Hash Value
+
+[Hash](Hash.txt)
+
 ## Q&A
 
 ### When Will Windows 10 Version 1507 - Windows 10 1703 Be Supported?
@@ -132,7 +136,7 @@ However, I'm trying to extract the corresponding Microsoft Store and AppInstalle
 
 [Old repository Link](https://github.com/Goo-aw233/Windows_Microsoft_Store)
 
-The old repository has been migrated and is no longer updated and archived.
+The old repository has been migrated and is no longer updated and archived. Documents from the old repository have been moved to [GitHub Releases](https://github.com/Goo-aw233/Add-Microsoft-Store/releases).
 
 ## Roadmap
 

@@ -93,6 +93,7 @@ Microsoft_Store_2_3_without_Installer_ARM64
 下载最适合你系统版本的压缩包，并解压到空白文件夹中。
 
 随后，在 Windows 设置中打开<a href="ms-settings:developers">开发人员模式</a>。
+
 <details>
 
 <summary>如何开启开发者模式。</summary>
@@ -115,6 +116,10 @@ Windows 11：Windows 设置 > 系统 > 开发者选项 （或者 Windows 设置 
 
 [GitHub Releases](https://github.com/Goo-aw233/Add-Microsoft-Store/releases) | [OneDrive](https://gbcs6-my.sharepoint.com/:f:/g/personal/gucats_gbcs6_onmicrosoft_com/Eqlmdjx_hIpHqmxSLqmLjxoBdtfHYQ6qqe45GHF6TSB0OA)
 
+## 文件哈希值
+
+[Hash](Hash.txt)
+
 ## Q&A
 
 ### 什么时候支持 Windows 10 版本 1507 到 Windows 10 版本 1703？
@@ -131,7 +136,7 @@ Windows 11：Windows 设置 > 系统 > 开发者选项 （或者 Windows 设置 
 
 [旧仓库链接](https://github.com/Goo-aw233/Windows_Microsoft_Store)
 
-旧资源库已迁移，不再更新，并作以存档。
+旧资源库已迁移，不再更新，并作以存档。旧仓库的文件已转移到 [GitHub Releases](https://github.com/Goo-aw233/Add-Microsoft-Store/releases)。
 
 ## 路线导览
 
