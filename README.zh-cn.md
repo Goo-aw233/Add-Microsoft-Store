@@ -6,7 +6,7 @@ Select your region and language to continue.
 
 选择你的语言地区以继续。
 
-[English (United States)](https://github.com/Goo-aw233/Add-Microsoft-Store) | [简体中文 (中国大陆)](https://github.com/Goo-aw233/Add-Microsoft-Store/blob/main/README.zh-cn.md) | [繁體中文 (臺灣)](https://github.com/Goo-aw233/Add-Microsoft-Store)
+[English (United States)](https://github.com/Goo-aw233/Add-Microsoft-Store) | [简体中文 (中国大陆)](https://github.com/Goo-aw233/Add-Microsoft-Store/blob/main/README.zh-cn.md) | [繁體中文 (臺灣)](https://github.com/Goo-aw233/Add-Microsoft-Store/blob/main/README.zh-tw.md)
 
 ## 使用方法
 
